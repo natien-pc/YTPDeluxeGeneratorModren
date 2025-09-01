@@ -1,5 +1,4 @@
-```markdown
-# YTP Deluxe Generator — Windows Legacy Edition
+# YTP Deluxe Generator Modern Edition
 
 YTP Deluxe Generator is a lightweight, legacy-friendly YouTube Poop (YTP) generator designed to run on older Windows systems (Windows 7 / 8.1 and legacy-era hardware). This repository contains a Beta series of the generator with a Tkinter GUI, FFmpeg-based effect engine, asset discovery, Auto-Generate batch mode, and an optional concatenation of generated outputs.
 
