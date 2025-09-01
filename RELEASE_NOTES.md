@@ -1,4 +1,3 @@
-```markdown
 # YTP Deluxe Generator — Windows 8.1 Update (feature changes)
 
 Release title:
