@@ -1,4 +1,3 @@
-```text
 Assets folder guidelines (updated for memes and Windows 8.1)
 
 Create these subfolders inside the project assets/ folder:
